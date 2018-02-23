@@ -4,7 +4,7 @@ run find.py
 The find.py file is pretty understandable for anyone who knows the basics of python.
 You can manipulate the code to find from a text file or a database instead of the list,
 or do any manipulation you need. I have set the main algorithm of the search operation
-as a different module (finders.py). It can easly modified as a program that can also
+as a different module (finders.py). It can easily be modified as a program that can also
 display less relevant results.
 
 PS: The program might seem faulty at first because you might feel it isn't working as you
