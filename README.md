@@ -1,5 +1,7 @@
 # Finder
+# READ THIS!
 Algorithm to find the most relevant string from a list 
+install nltk documentaion: https://www.nltk.org/install.html (REQUIRED)
 run find.py
 The find.py file is pretty understandable for anyone who knows the basics of python.
 You can manipulate the code to find from a text file or a database instead of the list,
