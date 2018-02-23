@@ -14,6 +14,6 @@ that can affect search, like probability of making a typing mistake (for instanc
 case you miss a word, you are less likely to miss a noun), relevance and irrelevance 
 of stop words while deciding ranking, etc. The optimal solution is made into this simple 
 code. However, this search doesn't cover spelling errors (Google is using Application
-Specific Integrated Circuits for it!) or learnig from previous entries.
+Specific Integrated Circuits for it!) or learning from previous entries.
 
 Feedbacks/Report an issue: stykesfeedback@gmail.com
